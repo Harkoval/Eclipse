@@ -5,12 +5,6 @@ public class ClassTest {
 		System.out.println("Hello world");
 
 	} 
+}
 
-<<<<<<< master
-}
-=======
-}
-<<<<<<< master
->>>>>>> b6f1924 Affichage console
-=======
->>>>>>> b6f1924 Affichage console
+

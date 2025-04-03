@@ -6,4 +6,8 @@ public class ClassTest {
 
 	} 
 
+<<<<<<< master
 }
+=======
+}
+>>>>>>> b6f1924 Affichage console
